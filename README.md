@@ -1,18 +1,19 @@
-# Tim 
-### Projekt sam izrađivao samostalno u sklopu kolegija Programsko inženjerstvo mentora Nikole Tankovića.
+# projekt
 
-#### Korisnost i mogućnosti moje stranice su naručivanje različitih vrsta pića, konkretno sam bio orijentiran na topla pića.
+## Project setup
+```
+npm install
+```
 
-#### Moja stranica namijenjena je svim ljudima u svakoj dobi
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-#### Za izradu stranice koristio sam:
-  - Firebase
-  - VueJS
-  - VuetifyJS
-  - Visual studio code
-  - Figma
-  
-##### Za izradu prototipa stranice koristio sam Figmu.
-##### Za izradu Class i USE Case diagrama koristio sam Luchidchart.
-##### VSCode sam koristio za izradu same stranice te njezine komponente kao što su signUp, Login, Home page...
-##### Za dizajn i pomoć koristio sam Firebase.
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

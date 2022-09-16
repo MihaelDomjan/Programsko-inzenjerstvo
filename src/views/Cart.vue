@@ -117,7 +117,7 @@ export default {
 			try {
 				if (
 					this.address.city.length < 2 ||
-					this.address.addressLine.length < 2
+					this.address.street.length < 2
 				) {
 					return alert("Address too short.");
 				}
